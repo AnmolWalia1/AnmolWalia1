@@ -1,16 +1,53 @@
-### Hi there 👋
+# Ciao 👋 I'm Anmol!
 
-<!--
-**AnmolWalia1/AnmolWalia1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I’m a Software Engineer experienced in building everything in JS/TS
 
-Here are some ideas to get you started:
+<br>
+### Under my belt:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+<img src="https://raw.githubusercontent.com/AnmolWalia1/AnmolWalia1/main/assests/react.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/AnmolWalia1/AnmolWalia1/main/assests/nodejs.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/AnmolWalia1/AnmolWalia1/main/assests/javascript.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/AnmolWalia1/AnmolWalia1/main/assests/express.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/AnmolWalia1/AnmolWalia1/main/assests/mongodb.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/AnmolWalia1/AnmolWalia1/main/assests/css3.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/AnmolWalia1/AnmolWalia1/main/assests/html5.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/AnmolWalia1/AnmolWalia1/main/assests/sass.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/AnmolWalia1/AnmolWalia1/main/assests/react.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/AnmolWalia1/AnmolWalia1/main/assests/bootstrap.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/AnmolWalia1/AnmolWalia1/main/assests/redux.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/AnmolWalia1/AnmolWalia1/main/assests/git.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/AnmolWalia1/AnmolWalia1/main/assests/typescript.png" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/AnmolWalia1/AnmolWalia1/main/assests/nextjs.png" height="auto" width="40">
+</p>
+
+<br/>
+
+### Busy with:
+<br>
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/AnmolWalia1/AnmolWalia1/main/assests/react.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/AnmolWalia1/AnmolWalia1/main/assests/nodejs.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/AnmolWalia1/AnmolWalia1/main/assests/javascript.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/AnmolWalia1/AnmolWalia1/main/assests/express.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/AnmolWalia1/AnmolWalia1/main/assests/redux.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/AnmolWalia1/AnmolWalia1/main/assests/typescript.png" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/AnmolWalia1/AnmolWalia1/main/assests/nextjs.png" height="auto" width="40">
+</p>
+
+<br/>
+
+### <strong>To Do:</strong>
+
+- GraphQL
+- State machines
+- Cloud (AWS)
+<br>
+
+### When I don't Code:
+
+<img src="https://raw.githubusercontent.com/AnmolWalia1/AnmolWalia1/main/assests/Netflix.png" height="auto" width="40">
+
