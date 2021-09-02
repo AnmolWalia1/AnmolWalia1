@@ -3,6 +3,7 @@
 ## I’m a Software Engineer experienced in building everything in JS/TS
 
 <br>
+
 ### Under my belt:
 <br>
 
